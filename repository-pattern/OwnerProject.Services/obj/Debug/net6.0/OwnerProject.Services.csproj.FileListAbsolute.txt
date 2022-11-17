@@ -1,0 +1,17 @@
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/bin/Debug/net6.0/OwnerProject.Services.deps.json
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/bin/Debug/net6.0/OwnerProject.Services.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/bin/Debug/net6.0/OwnerProject.Services.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/OwnerProject.Services.csproj.AssemblyReference.cache
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/OwnerProject.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/OwnerProject.Services.AssemblyInfoInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/OwnerProject.Services.AssemblyInfo.cs
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/OwnerProject.Services.csproj.CoreCompileInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/OwnerProject.Services.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/refint/OwnerProject.Services.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/OwnerProject.Services.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/ref/OwnerProject.Services.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/bin/Debug/net6.0/OwnerProject.Data.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/bin/Debug/net6.0/OwnerProject.Domain.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/bin/Debug/net6.0/OwnerProject.Domain.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/bin/Debug/net6.0/OwnerProject.Data.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Services/obj/Debug/net6.0/OwnerProject.Services.csproj.CopyComplete

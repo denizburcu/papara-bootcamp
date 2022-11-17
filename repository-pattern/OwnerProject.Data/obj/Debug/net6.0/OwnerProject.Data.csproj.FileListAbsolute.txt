@@ -1,0 +1,17 @@
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/bin/Debug/net6.0/OwnerProject.Data.deps.json
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/bin/Debug/net6.0/OwnerProject.Data.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/bin/Debug/net6.0/OwnerProject.Data.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/OwnerProject.Data.csproj.AssemblyReference.cache
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/OwnerProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/OwnerProject.Data.AssemblyInfoInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/OwnerProject.Data.AssemblyInfo.cs
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/OwnerProject.Data.csproj.CoreCompileInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/OwnerProject.Data.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/refint/OwnerProject.Data.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/OwnerProject.Data.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/ref/OwnerProject.Data.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/bin/Debug/net6.0/OwnerProject.Data.runtimeconfig.json
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/bin/Debug/net6.0/OwnerProject.Domain.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/bin/Debug/net6.0/OwnerProject.Domain.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/OwnerProject.Data.csproj.CopyComplete
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Data/obj/Debug/net6.0/OwnerProject.Data.genruntimeconfig.cache

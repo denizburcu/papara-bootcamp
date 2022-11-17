@@ -1,0 +1,12 @@
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/bin/Debug/net6.0/OwnerProject.Domain.deps.json
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/bin/Debug/net6.0/OwnerProject.Domain.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/bin/Debug/net6.0/OwnerProject.Domain.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/obj/Debug/net6.0/OwnerProject.Domain.csproj.AssemblyReference.cache
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/obj/Debug/net6.0/OwnerProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/obj/Debug/net6.0/OwnerProject.Domain.AssemblyInfoInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/obj/Debug/net6.0/OwnerProject.Domain.AssemblyInfo.cs
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/obj/Debug/net6.0/OwnerProject.Domain.csproj.CoreCompileInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/obj/Debug/net6.0/OwnerProject.Domain.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/obj/Debug/net6.0/refint/OwnerProject.Domain.dll
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/obj/Debug/net6.0/OwnerProject.Domain.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara3rdWeek/OwnerProject/OwnerProject.Domain/obj/Debug/net6.0/ref/OwnerProject.Domain.dll
