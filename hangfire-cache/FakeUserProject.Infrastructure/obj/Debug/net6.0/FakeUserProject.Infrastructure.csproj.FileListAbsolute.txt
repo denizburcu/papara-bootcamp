@@ -1,0 +1,12 @@
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/bin/Debug/net6.0/FakeUserProject.Infrastructure.deps.json
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/bin/Debug/net6.0/FakeUserProject.Infrastructure.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/bin/Debug/net6.0/FakeUserProject.Infrastructure.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/obj/Debug/net6.0/FakeUserProject.Infrastructure.csproj.AssemblyReference.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/obj/Debug/net6.0/FakeUserProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/obj/Debug/net6.0/FakeUserProject.Infrastructure.AssemblyInfoInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/obj/Debug/net6.0/FakeUserProject.Infrastructure.AssemblyInfo.cs
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/obj/Debug/net6.0/FakeUserProject.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/obj/Debug/net6.0/FakeUserProject.Infrastructure.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/obj/Debug/net6.0/refint/FakeUserProject.Infrastructure.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/obj/Debug/net6.0/FakeUserProject.Infrastructure.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Infrastructure/obj/Debug/net6.0/ref/FakeUserProject.Infrastructure.dll

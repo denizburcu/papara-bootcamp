@@ -1,0 +1,17 @@
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/bin/Debug/net6.0/FakeUserProject.Service.deps.json
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/bin/Debug/net6.0/FakeUserProject.Service.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/bin/Debug/net6.0/FakeUserProject.Service.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/bin/Debug/net6.0/FakeUserProject.Data.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/bin/Debug/net6.0/FakeUserProject.Infrastructure.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/bin/Debug/net6.0/FakeUserProject.Data.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/bin/Debug/net6.0/FakeUserProject.Infrastructure.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/FakeUserProject.Service.csproj.AssemblyReference.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/FakeUserProject.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/FakeUserProject.Service.AssemblyInfoInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/FakeUserProject.Service.AssemblyInfo.cs
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/FakeUserProject.Service.csproj.CoreCompileInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/FakeUserProject.Service.csproj.CopyComplete
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/FakeUserProject.Service.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/refint/FakeUserProject.Service.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/FakeUserProject.Service.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/Debug/net6.0/ref/FakeUserProject.Service.dll

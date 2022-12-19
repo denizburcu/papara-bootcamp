@@ -1,0 +1,17 @@
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/bin/Debug/net6.0/FakeUserProject.Data.deps.json
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/bin/Debug/net6.0/FakeUserProject.Data.runtimeconfig.json
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/bin/Debug/net6.0/FakeUserProject.Data.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/bin/Debug/net6.0/FakeUserProject.Data.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/bin/Debug/net6.0/FakeUserProject.Infrastructure.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/bin/Debug/net6.0/FakeUserProject.Infrastructure.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/FakeUserProject.Data.csproj.AssemblyReference.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/FakeUserProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/FakeUserProject.Data.AssemblyInfoInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/FakeUserProject.Data.AssemblyInfo.cs
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/FakeUserProject.Data.csproj.CoreCompileInputs.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/FakeUserProject.Data.csproj.CopyComplete
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/FakeUserProject.Data.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/refint/FakeUserProject.Data.dll
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/FakeUserProject.Data.pdb
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/FakeUserProject.Data.genruntimeconfig.cache
+/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/Debug/net6.0/ref/FakeUserProject.Data.dll

@@ -1,0 +1,325 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Api/FakeUserProject.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Api/FakeUserProject.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Api/FakeUserProject.Api.csproj",
+        "projectName": "FakeUserProject.Api",
+        "projectPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Api/FakeUserProject.Api.csproj",
+        "packagesPath": "/Users/denizburcuaydin/.nuget/packages/",
+        "outputPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denizburcuaydin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/FakeUserProject.Data.csproj": {
+                "projectPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/FakeUserProject.Data.csproj"
+              },
+              "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.InfraStructure/FakeUserProject.Infrastructure.csproj": {
+                "projectPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.InfraStructure/FakeUserProject.Infrastructure.csproj"
+              },
+              "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/FakeUserProject.Service.csproj": {
+                "projectPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/FakeUserProject.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.0-rc2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/FakeUserProject.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/FakeUserProject.Data.csproj",
+        "projectName": "FakeUserProject.Data",
+        "projectPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/FakeUserProject.Data.csproj",
+        "packagesPath": "/Users/denizburcuaydin/.nuget/packages/",
+        "outputPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denizburcuaydin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.InfraStructure/FakeUserProject.Infrastructure.csproj": {
+                "projectPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.InfraStructure/FakeUserProject.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.0-rc2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.InfraStructure/FakeUserProject.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.InfraStructure/FakeUserProject.Infrastructure.csproj",
+        "projectName": "FakeUserProject.Infrastructure",
+        "projectPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.InfraStructure/FakeUserProject.Infrastructure.csproj",
+        "packagesPath": "/Users/denizburcuaydin/.nuget/packages/",
+        "outputPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.InfraStructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denizburcuaydin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.0-rc2, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/FakeUserProject.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/FakeUserProject.Service.csproj",
+        "projectName": "FakeUserProject.Service",
+        "projectPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/FakeUserProject.Service.csproj",
+        "packagesPath": "/Users/denizburcuaydin/.nuget/packages/",
+        "outputPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/denizburcuaydin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/FakeUserProject.Data.csproj": {
+                "projectPath": "/Users/denizburcuaydin/Desktop/practice/Papara5thWeek/FakeUserProject/FakeUserProject.Data/FakeUserProject.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Hangfire": {
+              "target": "Package",
+              "version": "[1.8.0-rc2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
